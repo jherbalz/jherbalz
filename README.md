@@ -1,4 +1,4 @@
-# Jherbalz — everything local. Unless you want it.
+# Jherbalz — Everything local. Unless you want it.
 
 I'm not an engineer. I'm an artist with an engineering heart.
 
