@@ -22,6 +22,8 @@ Everything local. Unless you want it.
 
 ---
 
-**Working on:** [Jherbalz Rig Station](https://github.com/jherbalz/jherbalz-rig-station) — a local character rigging + animation studio for Blender. Free, local, kid-runnable.
+**Free and public:** [Sprite Turntable](https://github.com/jherbalz/sprite-turntable) — a free 64-angle sprite sheet maker for Blender. One download, one button, no account, no network.
+
+**In the works:** [Malmars Local Studio](https://github.com/jherbalz/malmars-local-studio) — the print, 3D and character studio, with the Rig Station inside it. Same rules: everything local, one download, one button, free stays free.
 
 **Find me:** [Instagram](https://www.instagram.com/jasontherbert/) · [HERBERTO MALMARS](https://www.instagram.com/herbertomalmars/) · [LinkedIn](https://www.linkedin.com/in/jason-t-herbert/)
